@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mysql2 (0.5.2)
+    rack (2.0.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mysql2
+  rack
+
+BUNDLED WITH
+   1.16.6
